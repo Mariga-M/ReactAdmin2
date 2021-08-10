@@ -12,7 +12,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@material-ui/core": "^4.12.3",
     "concurrently": "^6.2.1",
-    "json-server": "^0.16.3"
+    "json-server": "^0.16.3",
+    "ra-data-simple-rest": "^3.17.1",
+    "react-admin": "^3.17.1"
   }
 }
